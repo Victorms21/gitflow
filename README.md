@@ -5,4 +5,6 @@ Creo la feature task type
 mergeo de graph_employee en develop
 creacion task-type
 FNALIZADA funcionalidad tareas
+<<<<<<< HEAD
 integracion de la 1.1 en develop
+
